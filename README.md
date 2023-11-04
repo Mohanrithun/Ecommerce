@@ -1,2 +1,2 @@
 # Ecommerce
-AmulmilkEcommerce
+AmulEcommerce
